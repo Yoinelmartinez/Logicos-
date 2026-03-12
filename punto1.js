@@ -12,3 +12,15 @@ console.log((true && true) || false);
 console.log((5 > 2) && (10 < 8));
 console.log(!(4 === "4"));
 console.log((3 <= 3) || (7 > 10));
+
+ // punto 3
+
+// CONDICIONAL SIMPLE
+
+let temperatura = 32;
+
+if (temperatura >= 30) {
+console.log("Hace calor");
+} else {
+console.log("Clima agradable");
+}
